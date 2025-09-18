@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "branches",
+    "functions",
+    "guessing_game",
+    "helloworld",
+    "variables",
+]
+resolver = "2"
