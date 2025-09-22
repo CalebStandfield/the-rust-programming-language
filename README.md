@@ -22,5 +22,5 @@ There is a singular:
 Then each create and the folder has a :
  - Cargo.toml 
 
-This however means that RustRover hates me and this file type and will not allow me to push and pull from RustRover.
+However, RustRover hates me and this folder setup, which is simply a folder containing many cargo crates, and will not allow me to push and pull from RustRover.
 I recommend using GitHub Desktop to push and pull this repository.
