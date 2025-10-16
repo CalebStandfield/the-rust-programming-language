@@ -1,9 +1,9 @@
 [workspace]
-members = [
+members = ["ownership",
     "branches",
     "functions",
     "guessing_game",
     "helloworld",
-    "variables",
+    "variables", "references", "slice_type",
 ]
 resolver = "2"

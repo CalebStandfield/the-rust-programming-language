@@ -7,7 +7,7 @@ fn main() {
         println!("condition was false");
     }
 
-    if number == 3{
+    if number == 3 {
         println!("number was three");
     }
 
