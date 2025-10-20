@@ -114,6 +114,18 @@ name = "slice_type"
 version = "0.1.0"
 
 [[package]]
+name = "structs"
+version = "0.1.0"
+
+[[package]]
+name = "structs_examples"
+version = "0.1.0"
+
+[[package]]
+name = "structs_syntax"
+version = "0.1.0"
+
+[[package]]
 name = "syn"
 version = "2.0.106"
 source = "registry+https://github.com/rust-lang/crates.io-index"

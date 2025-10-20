@@ -4,6 +4,6 @@ members = ["ownership",
     "functions",
     "guessing_game",
     "helloworld",
-    "variables", "references", "slice_type",
+    "variables", "references", "slice_type", "structs", "structs_examples", "structs_syntax",
 ]
 resolver = "2"
