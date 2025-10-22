@@ -4,6 +4,6 @@ members = ["ownership",
     "functions",
     "guessing_game",
     "helloworld",
-    "variables", "references", "slice_type", "structs", "structs_examples", "structs_syntax",
+    "variables", "references", "slice_type", "structs", "structs_examples", "structs_syntax", "enums", "match_control_flow", "if_let_if_else",
 ]
 resolver = "2"
