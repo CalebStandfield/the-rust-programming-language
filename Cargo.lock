@@ -43,6 +43,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "hashmap"
+version = "0.1.0"
+
+[[package]]
 name = "helloworld"
 version = "0.1.0"
 
@@ -134,6 +138,10 @@ name = "slice_type"
 version = "0.1.0"
 
 [[package]]
+name = "strings"
+version = "0.1.0"
+
+[[package]]
 name = "structs"
 version = "0.1.0"
 
@@ -164,6 +172,10 @@ checksum = "f63a545481291138910575129486daeaf8ac54aee4387fe7906919f7830c7d9d"
 
 [[package]]
 name = "variables"
+version = "0.1.0"
+
+[[package]]
+name = "vector"
 version = "0.1.0"
 
 [[package]]
