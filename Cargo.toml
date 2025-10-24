@@ -1,9 +1,17 @@
 [workspace]
-members = ["ownership",
+members = [
+    "ownership",
     "branches",
     "functions",
     "guessing_game",
     "helloworld",
-    "variables", "references", "slice_type", "structs", "structs_examples", "structs_syntax", "enums", "match_control_flow", "if_let_if_else",
+    "variables",
+    "references",
+    "slice_type",
+    "structs",
+    "structs_examples",
+    "structs_syntax",
+    "enums",
+    "match_control_flow"
 ]
 resolver = "2"
