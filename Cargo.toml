@@ -12,6 +12,9 @@ members = [
     "structs_examples",
     "structs_syntax",
     "enums",
-    "match_control_flow"
+    "match_control_flow",
+    "my_project",
+    "backyard",
+    "restaurant",
 ]
 resolver = "2"

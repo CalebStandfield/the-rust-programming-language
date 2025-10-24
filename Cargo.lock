@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "backyard"
+version = "0.1.0"
+
+[[package]]
 name = "branches"
 version = "0.1.0"
 
@@ -50,6 +54,10 @@ checksum = "6a82ae493e598baaea5209805c49bbf2ea7de956d50d7da0da1164f9c6d28543"
 
 [[package]]
 name = "match_control_flow"
+version = "0.1.0"
+
+[[package]]
+name = "my_project"
 version = "0.1.0"
 
 [[package]]
@@ -115,6 +123,10 @@ dependencies = [
 
 [[package]]
 name = "references"
+version = "0.1.0"
+
+[[package]]
+name = "restaurant"
 version = "0.1.0"
 
 [[package]]
