@@ -15,6 +15,10 @@ members = [
     "match_control_flow",
     "my_project",
     "backyard",
-    "restaurant", "vector", "strings", "hashmap",
+    "restaurant",
+    "vector",
+    "strings",
+    "hashmap",
+    "recoverable_errors",
 ]
 resolver = "2"
