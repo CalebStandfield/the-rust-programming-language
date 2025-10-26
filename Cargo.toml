@@ -20,5 +20,6 @@ members = [
     "strings",
     "hashmap",
     "recoverable_errors",
+    "traits",
 ]
 resolver = "2"
