@@ -21,5 +21,6 @@ members = [
     "hashmap",
     "recoverable_errors",
     "traits",
+    "lifetimes",
 ]
 resolver = "2"
