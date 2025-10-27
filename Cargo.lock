@@ -69,6 +69,10 @@ name = "match_control_flow"
 version = "0.1.0"
 
 [[package]]
+name = "minigrep"
+version = "0.1.0"
+
+[[package]]
 name = "my_project"
 version = "0.1.0"
 
