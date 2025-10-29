@@ -24,5 +24,7 @@ members = [
     "lifetimes",
     "adder",
     "minigrep",
+    "closures",
+    "iterators",
 ]
 resolver = "2"
