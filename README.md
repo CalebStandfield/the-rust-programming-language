@@ -24,7 +24,7 @@ Then each create and the folder has a :
  - Cargo.toml 
 
 However, RustRover hates me and this folder setup, which is simply a folder containing many cargo crates, and will not allow me to push and pull from RustRover.
-I recommend using GitHub Desktop to push and pull this repository.
+I recommend using GitHub Desktop to push and pull this repository. - After reading more about workspaces in chapter 14.3 I realize I set this up as a cargo workspace. 
 
 A note from me after getting to chapter 13:
 
