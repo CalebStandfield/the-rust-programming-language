@@ -26,5 +26,6 @@ members = [
     "minigrep",
     "closures",
     "iterators",
+    "hello_async",
 ]
 resolver = "2"
