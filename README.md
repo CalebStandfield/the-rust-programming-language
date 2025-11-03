@@ -33,3 +33,19 @@ However, due to time constraints I have to make the hard decision to forgo some 
 So some subsections of the Learning Rust Book will go undocumented here.
 I will of course go over every section thoroughly, this isn't about slacking on my learning, but I'm to the point in my CS career where a large portion of what I'm "learning" is closer to review, rather than new material.
 So for the subchapters I deem necessary or worthy of writing down are the only files I will include in this repository from now on. 
+
+A note after chapter 15:
+
+    struct TreeNode {
+        val: i32,
+        left: Option<Rc<RefCell<TreeNode>>>,
+        right: Option<Rc<RefCell<TreeNode>>,
+        pub parent: RefCell<Option<Weak<TreeNode>>>, 
+
+    }
+
+I wanna cry just a little, Definitely more confusing than other languages thats for sure. But it makes a lot of sense. 
+Following the logic and getting the typing right for data structures like this will be hard for the first couple times thats for sure. 
+Also Im basically using this README as a small journal now... Hope thats chill. 
+
+
