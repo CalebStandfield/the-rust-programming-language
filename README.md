@@ -44,8 +44,14 @@ A note after chapter 15:
 
     }
 
-I wanna cry just a little, Definitely more confusing than other languages thats for sure. But it makes a lot of sense. 
-Following the logic and getting the typing right for data structures like this will be hard for the first couple times thats for sure. 
-Also Im basically using this README as a small journal now... Hope thats chill. 
+I wanna cry just a little, Definitely more confusing than other languages that's for sure. But it makes a lot of sense. 
+Following the logic and getting the typing right for data structures like this will be hard for the first couple times. 
+Also, I'm basically using this README as a small journal now... Hope das chill. 
+
+A note after chapters 18-20
+
+These chapters while important, didn't really need to be written out, especially chapter 20; which covered lots of advanced features that by their own words wouldn't be used often.
+All of it was good to know and read, keeping the definitions of what things are and how they work is what I considered to the important of this chapter. 
+
 
 
