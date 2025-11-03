@@ -340,6 +340,10 @@ name = "hashmap"
 version = "0.1.0"
 
 [[package]]
+name = "hello"
+version = "0.1.0"
+
+[[package]]
 name = "hello_async"
 version = "0.1.0"
 dependencies = [

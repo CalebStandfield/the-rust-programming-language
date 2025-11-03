@@ -27,5 +27,6 @@ members = [
     "closures",
     "iterators",
     "hello_async",
+    "hello",
 ]
 resolver = "2"
