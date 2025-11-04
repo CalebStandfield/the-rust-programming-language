@@ -51,7 +51,15 @@ Also, I'm basically using this README as a small journal now... Hope das chill.
 A note after chapters 18-20
 
 These chapters while important, didn't really need to be written out, especially chapter 20; which covered lots of advanced features that by their own words wouldn't be used often.
-All of it was good to know and read, keeping the definitions of what things are and how they work is what I considered to the important of this chapter. 
+All of it was good to know and read, keeping the definitions of what things are and how they work is what I considered to the important of this chapter.
+
+Hello
+
+Chapter 21 is over (appendix too) and I'm ready to move on from this book and get started creating something new. 
+Kinda a sad moment, I really enjoyed this book, perhaps I should have done the educational one with interactive quizzes, but I forgot about that... oops. 
+Continuing on I've got a couple projects I am doing in rust and so I'll look back to this repository/book for help when I'm stuck. 
+
+panic!("Goodbye");
 
 
 
